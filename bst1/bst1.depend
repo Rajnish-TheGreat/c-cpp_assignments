@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611900005 source:d:\c programs\bst1\main.cpp
+	<iostream>
+	<cstdlib>
+

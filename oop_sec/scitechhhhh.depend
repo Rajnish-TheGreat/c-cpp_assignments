@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1579070022 source:d:\c programs\scitechhhhh\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"medicines.h"
+	"login.h"
+
+1579075497 d:\c programs\scitechhhhh\medicines.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<conio.h>
+
+1579075273 d:\c programs\scitechhhhh\login.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+

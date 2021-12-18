@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604492235 source:d:\c programs\doubly\main.c
+	<stdio.h>
+	<stdlib.h>
+
